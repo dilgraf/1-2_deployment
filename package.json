@@ -6,7 +6,7 @@
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development",
     "lint": "eslint",
-    "test": "jest"
+    "test": "jest --passWithNoTests"
   },
   "repository": "https://github.com/dilgraf/netology-hw.git",
   "author": "Dilya",
