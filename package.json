@@ -1,5 +1,5 @@
 {
-  "name": "Yarn",
+  "name": "1-2_deployment",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "lint": "eslint",
     "test": "jest --passWithNoTests"
   },
-  "repository": "https://github.com/dilgraf/netology-hw.git",
+  "repository": "https://github.com/dilgraf/1-2_deployment.git",
   "author": "Dilya",
   "license": "MIT",
   "devDependencies": {
