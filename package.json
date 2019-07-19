@@ -6,8 +6,7 @@
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development",
     "lint": "eslint",
-    "test": "jest --passWithNoTests",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --force --verbose"
+    "test": "jest --passWithNoTests"
   },
   "repository": "https://github.com/dilgraf/1-2_deployment.git",
   "author": "Dilya",
